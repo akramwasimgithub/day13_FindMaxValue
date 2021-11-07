@@ -1,0 +1,14 @@
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.exe
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.deps.json
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.runtimeconfig.json
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.runtimeconfig.dev.json
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.dll
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\bin\Debug\netcoreapp3.1\TestMaximum.pdb
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.csproj.AssemblyReference.cache
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.AssemblyInfoInputs.cache
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.AssemblyInfo.cs
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.csproj.CoreCompileInputs.cache
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.dll
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.pdb
+C:\Users\63not\source\repos\TestMaximum\TestMaximum\obj\Debug\netcoreapp3.1\TestMaximum.genruntimeconfig.cache
